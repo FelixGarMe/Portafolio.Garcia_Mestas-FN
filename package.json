@@ -1,0 +1,16 @@
+{
+  "name": "portafolio.garcia_mestas",
+  "version": "1.0.0",
+  "description": "Felix Garcia :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felix",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
